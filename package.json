@@ -1,0 +1,31 @@
+{
+  "name": "arobotlist-api",
+  "version": "0.0.1-alpha",
+  "description": "A official arobotlist.xyz api.",
+  "main": "arobotlist.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "x"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "arobotlist",
+    "api",
+    "bots",
+    "vote",
+    "check",
+    "vote",
+    "control",
+    "force",
+    "vote"
+  ],
+  "author": "Enil",
+  "license": "MIT",
+  "dependencies": {}
+}
